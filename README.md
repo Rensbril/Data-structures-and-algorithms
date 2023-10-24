@@ -12,7 +12,7 @@ Welcome to my personal space of code exploration where I unravel the intricacies
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/algorithmic-odyssey.git
+   git clone https://github.com/rensbril/data-structures-and-algorithms.git
    cd algorithmic-odyssey
    ```
    
@@ -28,12 +28,12 @@ Follow the instructions in each directory's README to compile and run the code.
 Feel the pull of the coding cosmos? Want to contribute? I welcome any and all help!
 
 ## Fork the repository.
-Create a new branch (`git checkout -b contribute/<contribution>`).
-Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-Push to the branch (`git push origin contribute/<contribution>`).
+Create a new branch (`git checkout -b contribute/<contribution>`).  
+Commit your changes (`git commit -m 'Add some AmazingFeature'`).  
+Push to the branch (`git push origin contribute/<contribution>`).  
 Open a Pull Request.
 
 ## Contact 💌
-GitHub: @rensbril
-Email: rensbril@proton.me
+GitHub: @rensbril  
+Email: rensbril@proton.me  
 ✨
