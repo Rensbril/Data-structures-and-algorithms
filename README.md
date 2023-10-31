@@ -8,6 +8,8 @@ Welcome to my personal space of code exploration where I unravel the intricacies
 - **Data Structures**: Building blocks of efficient code. Discover arrays, linked lists, stacks, queues, trees, hash tables, and more.
 - **Algorithms**: The heart of problem-solving. Delve into sorting, searching, dynamic programming, graph algorithms, and beyond.
 - **Implementations**: From theory to code. Witness the transmutation of abstract concepts into executable reality.
+- **Analyzing Algorithm Efficiency**: The art of measuring code. How does the execution time of an algorithm grow as the input size increases? For an in depth look at the analysis check out [Analyzing Algorithm Efficiency](./Analyzing_Algorithm_Efficiency.md)
+- **Big O Notation**: The language of algorithmic complexity. For a per data structure and algorithm analysis check out [Time Complexities](./Time_Complexities.md)
 
 ## Getting Started 🏁
 
