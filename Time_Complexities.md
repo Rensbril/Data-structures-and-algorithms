@@ -1,5 +1,5 @@
 
-For an in depth explanation of the time complexities see [[BIG-O Time Complexity]]
+For an in depth explanation of the time complexities see [Analyzing Algorithm Efficiency](./Analyzing_Algorithm_Efficiency.md)
 
 ### Data Structures:
 
